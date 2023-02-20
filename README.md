@@ -1,5 +1,5 @@
-# Machine-Vision
-Machine Vision algorithms implemented using TensorFlow, NumPy and MatPlotLib, for UOM's EN4553 - Machine Vision Module ❄
+# Deep Learning/ Machine Vision
+Machine Vision, Deep Learning algorithms implemented using TensorFlow, NumPy and MatPlotLib, for UOM's EN4553 - Machine Vision Module ❄
 
 ## Assignments
 
